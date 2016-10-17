@@ -6,4 +6,5 @@
     <string name="rules">Rules</string>
     <string name="game_rules">Game Rules</string>
     <string name="play_game">Play Game</string>
+    <string name="current_active_board">Current Active board</string>
 </resources>

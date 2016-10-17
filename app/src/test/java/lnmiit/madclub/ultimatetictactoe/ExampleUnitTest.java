@@ -1,4 +1,4 @@
-package dexter.com.ultimate_tictactoe;
+package lnmiit.madclub.ultimatetictactoe;
 
 import org.junit.Test;
 
